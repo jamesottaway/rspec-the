@@ -1,0 +1,17 @@
+PATH
+  remote: .
+  specs:
+    rspec-the (0.0.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (10.4.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (~> 1.7)
+  rake (~> 10.0)
+  rspec-the!
