@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    rspec-the (0.0.1)
+    rspec-the (0.0.2)
       rspec-core (>= 3.0.0)
       rspec-expectations (>= 3.0.0)
 
