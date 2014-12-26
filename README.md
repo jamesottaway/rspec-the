@@ -2,6 +2,9 @@
 
 Easily make assertions about the contents of your `let` blocks
 
+[![Travis Status](https://img.shields.io/travis/jamesottaway/rspec-the.svg)](https://travis-ci.org/jamesottaway/rspec-the)
+[![RubyGems Version](https://img.shields.io/gem/v/rspec-the.svg)](https://rubygems.org/gems/rspec-the)
+
 ## Installation
 
 Add this line to your application's Gemfile:
