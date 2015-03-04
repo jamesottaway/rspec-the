@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = 'rspec-the'
-  spec.version       = '1.0.0'
+  spec.version       = '1.0.1'
   spec.authors       = ['James Ottaway']
   spec.email         = ['hello@james.ottaway.io']
   spec.summary       = 'Easily make assertions about the contents of your `let` blocks'
