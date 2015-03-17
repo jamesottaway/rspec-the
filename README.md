@@ -59,10 +59,10 @@ describe Array do
   its(:first) { is_expected.to eq 1 }
 
   let(:evens) { subject.select(&:even?) }
-  the(:evens) { is_expected.to eq [2, 4] }
+  the(:evens) { are_expected.to eq [2, 4] }
 
   let(:odds) { subject.select(&:odd?) }
-  the(:odds) { is_expected.to eq [1, 3, 5] }
+  the(:odds) { are_expected.to eq [1, 3, 5] }
 end
 ```
 
