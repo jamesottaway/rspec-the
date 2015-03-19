@@ -49,7 +49,7 @@ describe Array do
 end
 ```
 
-Instead, `rspec-the` allows us use `let` to define many pseudo-`subject` blocks which can easily be tested.
+Instead, `rspec-the` allows us to use `let` to define many pseudo-`subject` blocks which can easily be tested.
 
 ``` ruby
 describe Array do
